@@ -7,3 +7,5 @@ A simple word list API. Check it out at [boggle-words.herokuapp.com](https://bog
 ```
 git push heroku master
 ```
+
+Sample PR
